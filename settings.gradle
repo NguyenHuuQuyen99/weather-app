@@ -1,0 +1,2 @@
+rootProject.name='Redo'
+include ':app'
